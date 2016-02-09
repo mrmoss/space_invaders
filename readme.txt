@@ -34,7 +34,11 @@ Charlie Carlson              ~*MM%%%%%%@f`
 Mike Moss                         '''''
 Zak Williams
 
-This is a bootable Space Invaders game for x8086 architecture systems.  Use the arrow keys to move and the space button to shoot.  The objective is not to die.  The game restarts whether you win or lose.  You can adjust the hardness by setting the the hardness level in the source and recompiling.
+This is a bootable Space Invaders game for x8086 architecture systems.
+Use the arrow keys to move and the space button to shoot.
+The objective is not to die.
+The game restarts whether you win or lose.
+You can adjust the hardness by setting the the hardness level in the source and recompiling.
 
 Have fun!
 
